@@ -1,0 +1,6 @@
+Name	Height (cm)	Weight (kg)
+Name: Bowser	Height: 310.0	Weight: 726.0
+Name: Luigi	Height: 158.0	Weight: 83.0
+Name: Mario	Height: 155.0	Weight: 90.0
+Name: Peach	Height: 183.0	Weight: 60.0
+Name: Toad	Height: 41.0	Weight: 7.0
